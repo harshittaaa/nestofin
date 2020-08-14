@@ -21,7 +21,7 @@ body{
 
 .navbar{
     width:100%;
-    background-color: #0E21E1;
+    background-color: #0D6FE3;
     margin: 0;
     padding: 3.8vh 0;    /*latest change*/
 }
@@ -65,11 +65,11 @@ body{
 
 #planning{
     padding: 2%;    /*latest change*/
-    border-color: #0E21E1;
+    border-color: #0D6FE3;
     border-radius: 9vh;     /*latest change*/
-    background-color: #0E21E1;
+    background-color: #0D6FE3;
     color: white;
-    font-size: 100%;    /*latest change*/
+    font-size: 120%;    /*latest change*/
     width: 40%;        
     margin:5%;
 }
